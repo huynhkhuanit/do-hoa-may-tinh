@@ -1,0 +1,22 @@
+﻿  do_hoa_may_tinh-thuc_hanh_buoi_02.cpp
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-02\do_hoa_may_tinh-thuc_hanh_buoi_02\graphics.h(281,5): warning C4273: 'getch': inconsistent dll linkage
+  (compiling source file 'do_hoa_may_tinh-thuc_hanh_buoi_02.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\conio.h(444,30):
+  see previous definition of 'getch'
+  
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-02\do_hoa_may_tinh-thuc_hanh_buoi_02\graphics.h(282,5): warning C4273: 'kbhit': inconsistent dll linkage
+  (compiling source file 'do_hoa_may_tinh-thuc_hanh_buoi_02.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\conio.h(450,30):
+  see previous definition of 'kbhit'
+  
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-02\do_hoa_may_tinh-thuc_hanh_buoi_02\do_hoa_may_tinh-thuc_hanh_buoi_02.cpp(91,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-02\do_hoa_may_tinh-thuc_hanh_buoi_02\do_hoa_may_tinh-thuc_hanh_buoi_02.cpp(96,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-02\do_hoa_may_tinh-thuc_hanh_buoi_02\do_hoa_may_tinh-thuc_hanh_buoi_02.cpp(97,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-02\do_hoa_may_tinh-thuc_hanh_buoi_02\do_hoa_may_tinh-thuc_hanh_buoi_02.cpp(99,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-02\do_hoa_may_tinh-thuc_hanh_buoi_02\do_hoa_may_tinh-thuc_hanh_buoi_02.cpp(100,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-02\do_hoa_may_tinh-thuc_hanh_buoi_02\do_hoa_may_tinh-thuc_hanh_buoi_02.cpp(135,20): warning C4018: '<': signed/unsigned mismatch
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-02\do_hoa_may_tinh-thuc_hanh_buoi_02\do_hoa_may_tinh-thuc_hanh_buoi_02.cpp(280,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-02\do_hoa_may_tinh-thuc_hanh_buoi_02\do_hoa_may_tinh-thuc_hanh_buoi_02.cpp(280,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-02\do_hoa_may_tinh-thuc_hanh_buoi_02\do_hoa_may_tinh-thuc_hanh_buoi_02.cpp(283,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-02\do_hoa_may_tinh-thuc_hanh_buoi_02\do_hoa_may_tinh-thuc_hanh_buoi_02.cpp(283,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  do_hoa_may_tinh-thuc_hanh_buoi_02.vcxproj -> E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-02\do_hoa_may_tinh-thuc_hanh_buoi_02\Debug\do_hoa_may_tinh-thuc_hanh_buoi_02.exe

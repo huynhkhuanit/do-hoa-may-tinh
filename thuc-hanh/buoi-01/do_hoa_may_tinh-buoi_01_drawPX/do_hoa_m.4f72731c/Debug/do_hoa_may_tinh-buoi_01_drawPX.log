@@ -1,0 +1,51 @@
+﻿  main.cpp
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(9,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(24,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(24,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(25,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(25,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(27,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(27,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(28,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(28,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(37,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(37,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(38,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(38,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(40,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(40,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(41,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(41,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(54,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(54,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(55,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(55,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(64,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(64,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(65,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(65,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(74,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(74,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(75,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(75,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(81,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(82,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(83,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(84,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(85,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(86,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(88,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(89,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(90,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(91,27): warning C4305: '+=': truncation from 'double' to 'float'
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(97,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(98,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\main.cpp(99,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+graphics.lib(dibutil.obj) : warning LNK4099: PDB '' was not found with 'graphics.lib(dibutil.obj)' or at ''; linking object as if no debug info
+graphics.lib(drawing.obj) : warning LNK4099: PDB '' was not found with 'graphics.lib(drawing.obj)' or at ''; linking object as if no debug info
+graphics.lib(file.obj) : warning LNK4099: PDB '' was not found with 'graphics.lib(file.obj)' or at ''; linking object as if no debug info
+graphics.lib(misc.obj) : warning LNK4099: PDB '' was not found with 'graphics.lib(misc.obj)' or at ''; linking object as if no debug info
+graphics.lib(text.obj) : warning LNK4099: PDB '' was not found with 'graphics.lib(text.obj)' or at ''; linking object as if no debug info
+graphics.lib(winbgi.obj) : warning LNK4099: PDB '' was not found with 'graphics.lib(winbgi.obj)' or at ''; linking object as if no debug info
+graphics.lib(winthread.obj) : warning LNK4099: PDB '' was not found with 'graphics.lib(winthread.obj)' or at ''; linking object as if no debug info
+  do_hoa_may_tinh-buoi_01_drawPX.vcxproj -> D:\do-hoa-may-tinh\thuc-hanh\buoi-01\do_hoa_may_tinh-buoi_01_drawPX\Debug\do_hoa_may_tinh-buoi_01_drawPX.exe
