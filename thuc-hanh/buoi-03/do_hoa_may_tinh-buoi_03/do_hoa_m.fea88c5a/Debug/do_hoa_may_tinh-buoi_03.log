@@ -1,0 +1,7 @@
+﻿  do_hoa_may_tinh-buoi_03.cpp
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-03\do_hoa_may_tinh-buoi_03\do_hoa_may_tinh-buoi_03.cpp(21,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-03\do_hoa_may_tinh-buoi_03\do_hoa_may_tinh-buoi_03.cpp(22,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-03\do_hoa_may_tinh-buoi_03\do_hoa_may_tinh-buoi_03.cpp(25,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-03\do_hoa_may_tinh-buoi_03\do_hoa_may_tinh-buoi_03.cpp(25,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-03\do_hoa_may_tinh-buoi_03\do_hoa_may_tinh-buoi_03.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+  do_hoa_may_tinh-buoi_03.vcxproj -> E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-03\do_hoa_may_tinh-buoi_03\Debug\do_hoa_may_tinh-buoi_03.exe

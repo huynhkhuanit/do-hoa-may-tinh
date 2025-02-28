@@ -1,0 +1,14 @@
+﻿  thuc-hanh-buoi-04.cpp
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\thuc-hanh-buoi-04\thuc-hanh-buoi-04.cpp(22,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\thuc-hanh-buoi-04\thuc-hanh-buoi-04.cpp(23,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\thuc-hanh-buoi-04\thuc-hanh-buoi-04.cpp(26,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\thuc-hanh-buoi-04\thuc-hanh-buoi-04.cpp(26,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\thuc-hanh-buoi-04\thuc-hanh-buoi-04.cpp(55,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\thuc-hanh-buoi-04\thuc-hanh-buoi-04.cpp(56,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\thuc-hanh-buoi-04\thuc-hanh-buoi-04.cpp(57,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+thuc-hanh-buoi-04.obj : error LNK2019: unresolved external symbol putpixel referenced in function "void __cdecl DDA(int,int,int,int)" (?DDA@@YAXHHHH@Z)
+thuc-hanh-buoi-04.obj : error LNK2019: unresolved external symbol closegraph referenced in function main
+thuc-hanh-buoi-04.obj : error LNK2019: unresolved external symbol initwindow referenced in function main
+thuc-hanh-buoi-04.obj : error LNK2019: unresolved external symbol outtextxy referenced in function "void __cdecl drawTriangle(void)" (?drawTriangle@@YAXXZ)
+graphics.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\thuc-hanh-buoi-04\x64\Debug\thuc-hanh-buoi-04.exe : fatal error LNK1120: 4 unresolved externals

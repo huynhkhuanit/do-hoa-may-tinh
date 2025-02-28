@@ -1,0 +1,36 @@
+﻿  drawHeart.cpp
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(10,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(11,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(15,34): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(15,34): warning C4244:         with
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(15,34): warning C4244:         [
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(15,34): warning C4244:             _Ty1=int
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(15,34): warning C4244:         ]
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(16,35): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(16,35): warning C4244:         with
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(16,35): warning C4244:         [
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(16,35): warning C4244:             _Ty2=int
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(16,35): warning C4244:         ]
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(19,34): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(19,34): warning C4244:         with
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(19,34): warning C4244:         [
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(19,34): warning C4244:             _Ty1=int
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(19,34): warning C4244:         ]
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(20,35): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(20,35): warning C4244:         with
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(20,35): warning C4244:         [
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(20,35): warning C4244:             _Ty2=int
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(20,35): warning C4244:         ]
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(37,48): warning C4305: '+=': truncation from 'double' to 'float'
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(38,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(40,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(40,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(47,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\drawHeart.cpp(47,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+drawHeart.obj : error LNK2019: unresolved external symbol line referenced in function "void __cdecl drawStar(int,int,int,int)" (?drawStar@@YAXHHHH@Z)
+drawHeart.obj : error LNK2019: unresolved external symbol putpixel referenced in function "void __cdecl drawHeart(int,int,int)" (?drawHeart@@YAXHHH@Z)
+drawHeart.obj : error LNK2019: unresolved external symbol closegraph referenced in function main
+drawHeart.obj : error LNK2019: unresolved external symbol initwindow referenced in function main
+drawHeart.obj : error LNK2019: unresolved external symbol outtextxy referenced in function "void __cdecl drawHeart(int,int,int)" (?drawHeart@@YAXHHH@Z)
+graphics.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\do_hoa_may_tinh-thuc_hanh-buoi_04\drawHeart\x64\Debug\drawHeart.exe : fatal error LNK1120: 5 unresolved externals
