@@ -1,4 +1,5 @@
-﻿#include <bits/stdc++.h>
+﻿#include <iostream>
+#include <vector>
 #include "graphics.h"
 #pragma comment(lib, "graphics.lib")
 #define M_PI 3.14159265358979323846
@@ -43,7 +44,7 @@ void drawHeart(int cx, int cy, int size) {
     int centerX = cx;
     int centerY = cy - size * 5;
 
-    char centerText[100] = "Rat xinh dep tuyet voi";
+    char centerText[100] = "Nguyen Thu Thao!";
     outtextxy(centerX / 1.25, centerY * 1.25, centerText);
 }
 
