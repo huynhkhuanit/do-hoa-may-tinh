@@ -1,0 +1,8 @@
+﻿  veHinVuong.cpp
+veHinVuong.obj : error LNK2019: unresolved external symbol line referenced in function "public: void __cdecl Square::draw(int)" (?draw@Square@@QEAAXH@Z)
+veHinVuong.obj : error LNK2019: unresolved external symbol delay referenced in function main
+veHinVuong.obj : error LNK2019: unresolved external symbol setcolor referenced in function "public: void __cdecl Square::draw(int)" (?draw@Square@@QEAAXH@Z)
+veHinVuong.obj : error LNK2019: unresolved external symbol closegraph referenced in function main
+veHinVuong.obj : error LNK2019: unresolved external symbol initwindow referenced in function main
+graphics.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-08-plus\veHinVuong\x64\Debug\veHinVuong.exe : fatal error LNK1120: 5 unresolved externals

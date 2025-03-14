@@ -1,0 +1,10 @@
+﻿  buoi-08.cpp
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-08\buoi-08\buoi-08.cpp(28,22): warning C4101: 'gm': unreferenced local variable
+buoi-08.obj : error LNK2019: unresolved external symbol cleardevice referenced in function main
+buoi-08.obj : error LNK2019: unresolved external symbol line referenced in function "void __cdecl drawSquare(struct Point,int)" (?drawSquare@@YAXUPoint@@H@Z)
+buoi-08.obj : error LNK2019: unresolved external symbol delay referenced in function main
+buoi-08.obj : error LNK2019: unresolved external symbol setcolor referenced in function main
+buoi-08.obj : error LNK2019: unresolved external symbol closegraph referenced in function main
+buoi-08.obj : error LNK2019: unresolved external symbol initwindow referenced in function main
+graphics.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+E:\DHV\school_year_3\semester_1\do-hoa-may-tinh\thuc-hanh\buoi-08\buoi-08\x64\Debug\buoi-08.exe : fatal error LNK1120: 6 unresolved externals
